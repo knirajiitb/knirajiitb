@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niraj Kumar
-- 👀 I’m interested in ...Solid state devices
-- 🌱 I’m currently learning ...semi classical transport
-- 💞️ I’m looking to collaborate on ...writing cpp code for band interpolation using skw method.
+- 👀 I’m interested in ...Solid state devices,nanoelectronics,quantum transport and machine learning.
+- 🌱 I’m currently learning ...semi classical transport,quantum transport.
+- 💞️ I’m looking to collaborate on ...writing c++ code for 3D-band interpolation using skw method.
 - 📫 How to reach me ..email-: k.nirajiitb@gmail.com
 
 <!---
